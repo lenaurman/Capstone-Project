@@ -1,1 +1,1 @@
-# Capstone-Projects for Coursera
+# Capstone Projects for Coursera
